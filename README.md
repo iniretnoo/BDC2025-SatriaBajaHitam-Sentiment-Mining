@@ -1,7 +1,7 @@
 # 🛡️ Satria Data 2025 - Big Data Challenge
 ## Tim: Satria Baja Hitam
 
-Repository ini berisi solusi lengkap untuk **Case 1** dan **Case 2** dalam ajang Satria Data 2026. Kami fokus pada pengolahan data besar (Big Data) dan analisis sentimen terkait dinamika Pemilu 2024 di Indonesia.
+Repository ini berisi solusi lengkap untuk **Case 1** dan **Case 2** dalam ajang Satria Data 2025. Kami fokus pada pengolahan data besar (Big Data) dan analisis sentimen terkait dinamika Pemilu 2024 di Indonesia.
 
 ---
 
